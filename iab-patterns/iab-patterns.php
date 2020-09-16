@@ -3,7 +3,7 @@
 /**
  * Plugin Name:       IAB Patterns
  * Plugin URI:        http://iambrent.com/iab-patterns
- * Description:       Block Editor Patterns
+ * Description:       Custom Block Editor Patterns
  * Version:           0.0.1
  * Requires at least: 5.2
  * Requires PHP:      7.2
