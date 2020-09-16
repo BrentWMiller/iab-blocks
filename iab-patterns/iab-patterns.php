@@ -31,8 +31,10 @@ function iab_patterns() {
 add_action('init', 'iab_patterns');
 
 /**
- * Register patterns
- *
+ * Registers custom block patterns
+ *  
+ * @since 0.0.1
+ * 
  * @param String $id (required) A unique name for your pattern
  * @param String $title (required) A human-readable title for the pattern.
  * @param String $description A visually hidden text used to describe the pattern in the inserter. A description is optional but it is strongly encouraged when the title does not fully describe what the pattern does.
